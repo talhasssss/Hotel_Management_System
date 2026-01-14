@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Hotel {
-    // Renamed fields for a different look
+  
     private final String hotelTitle;
     private final List<Room> allRooms = new ArrayList<>();
     private final List<Reservation> bookingList;
