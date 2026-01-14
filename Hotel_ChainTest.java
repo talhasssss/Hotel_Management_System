@@ -3,13 +3,13 @@ import org.junit.Before;
 import org.junit.Test;
 import java.util.Date;
 
-public class HotelEnterpriseTest {
+public class Hotel_ChainTest {
 
     private Hotel_Chain corporateOffice;
 
     @Before
     public void setup() {
-        // Initialize common object used in multiple tests
+        
         corporateOffice = new Hotel_Chain("Global Resorts Group");
     }
 
@@ -22,8 +22,7 @@ public class HotelEnterpriseTest {
         // Execution
         corporateOffice.registerNewMember(idCode, cardDetail);
 
-        // Validation
-        // Confirming the object state remains valid after operation
+        
         assertNotNull("The enterprise object should remain valid after registration", corporateOffice);
     }
 
