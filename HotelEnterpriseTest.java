@@ -5,12 +5,12 @@ import java.util.Date;
 
 public class HotelEnterpriseTest {
 
-    private HotelEnterprise corporateOffice;
+    private Hotel_Chain corporateOffice;
 
     @Before
     public void setup() {
         // Initialize common object used in multiple tests
-        corporateOffice = new HotelEnterprise("Global Resorts Group");
+        corporateOffice = new Hotel_Chain("Global Resorts Group");
     }
 
     @Test

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class HotelEnterprise {
+public class Hotel_Chain {
     // Modified naming convention
     private String brandIdentity;
     
@@ -10,7 +10,7 @@ public class HotelEnterprise {
     private final List<ReserverPayer> registeredPayers;
 
     // Updated Constructor
-    public HotelEnterprise(String brandIdentity) {
+    public Hotel_Chain(String brandIdentity) {
         this.brandIdentity = brandIdentity;
         // Initializing with clear naming
         this.branchList = new ArrayList<>();
