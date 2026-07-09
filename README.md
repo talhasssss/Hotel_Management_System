@@ -91,5 +91,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  <b>Developed with ❤️ by <a href="https://github.com/hassanzzzj">Hassan</a></b>
+  <b>Developed with ❤️ by <a href="https://github.com/talhasssss">Talha</a></b>
 </p>
