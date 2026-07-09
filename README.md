@@ -44,7 +44,7 @@ Follow these steps to set up the project on your local environment:
 
 1.  **Clone the Repository** 📂
     ```bash
-    git clone [https://github.com/hassanzzzj/Hotel-Reservation-System.git](https://github.com/hassanzzzj/Hotel-Reservation-System.git)
+   git clone https://github.com/talhasssss/Hotel_Management_System.git
     ```
 2.  **Import Project** 💻
     * Open **VS Code** or **IntelliJ IDEA**.
@@ -91,5 +91,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  <b>Developed with ❤️ by <a href="https://github.com/talhasssss">Talha</a></b>
+  <b>Developed with ❤️ by <a href="(https://github.com/talhasssss)">Talha</a></b>
 </p>
